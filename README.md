@@ -1,2 +1,11 @@
-# mapa_r
-Desarrollo de sitio web basado en librería "leaflet" desde R con herramientas de búsqueda (OMS) y geolocalización
+# Mapa Interactivo de CABA
+
+Mapa con buscador de direcciones y geolocalización para Buenos Aires.
+
+## Características
+- Buscador de direcciones
+- Geolocalización
+- Múltiples capas base
+- Diseño responsive
+
+Creado con R, Leaflet y Leaflet.extras
